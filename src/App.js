@@ -5,7 +5,7 @@ import './App.css';
 function App() {
    return (
       <div className="App">
-         <h1>My first react app</h1>
+         <h1>Mi primera aplicación</h1>
          <p>REACT</p>
       </div>
    );
